@@ -17,7 +17,7 @@ const Navbar = () => {
             <div onClick={() => {
                 setNav(!nav)
                 }}
-                className='p-2 cursor-pointer text-raisinBlack rounded-full hover:bg-vanilla'>
+                className='p-2 cursor-pointer text-raisinBlack rounded-full hover:bg-vanilla duration-300'>
                 <AiOutlineMenu size={30} />
             </div>
 
